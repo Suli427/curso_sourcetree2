@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Curso de Sourcetree");
 
         Persona per = new Persona();
+        per.setApellido("Soler")
     }
 }
